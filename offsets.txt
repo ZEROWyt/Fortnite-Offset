@@ -1,0 +1,7 @@
+World               0x11791DF8
+Names               0x119692C0
+
+PersistentLevel     0x30
+OwningGameInstance  0x1D0
+GameState           0x158
+ComponentToWorld    0x1C0
